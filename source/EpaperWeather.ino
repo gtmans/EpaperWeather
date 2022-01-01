@@ -207,13 +207,14 @@ u8g2Fonts.print       ("° ");
 u8g2Fonts.print       (winddirection);
 u8g2Fonts.print       (beauf);
 u8g2Fonts.setCursor   (30,10);
-//u8g2Fonts.print       (windtxt[beauf]);
+//u8g2Fonts.print     (windtxt[beauf]);
 u8g2Fonts.print       ("Min.");
 u8g2Fonts.print       (Fmin);
 u8g2Fonts.print       ("°C");
 u8g2Fonts.setFont     (u8g2_font_helvR14_tf);
 u8g2Fonts.setCursor   (0,10);
-u8g2Fonts.print       ("last update:");
+u8g2Fonts.print       ("Updated ");
+u8g2Fonts.print       (dayStamp);
 u8g2Fonts.print       (TimeStamp);
 display.update();
 }
