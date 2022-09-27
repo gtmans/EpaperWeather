@@ -12,3 +12,8 @@ Some info is displayed in Dutch but can easyly be translated
 inspired by https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series
 and https://www.youtube.com/watch?v=av-w0U8UZEs
 and https://bestofcpp.com/repo/piotr-kubica-weather-tiny-cpp-miscellaneous
+
+sep 22
+new version for 2.9 inch T5
+
+![EpaperWeather3](https://github.com/gtmans/EpaperWeather/blob/main/media/TTGO-epaper-2.9-inch-case.png)
