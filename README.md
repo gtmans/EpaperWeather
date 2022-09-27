@@ -13,7 +13,8 @@ inspired by https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series
 and https://www.youtube.com/watch?v=av-w0U8UZEs
 and https://bestofcpp.com/repo/piotr-kubica-weather-tiny-cpp-miscellaneous
 
-sep 22
+september 2022
+
 new version MyWeather3.ino Small weatherstation based on LILYGO T5 e-paper screen and weeronline.nl (dutch) weather api
 multi version for 2.13 2.8 and 2.9 inch T5 e-paperscreen.
 case on Thingiverse https://www.thingiverse.com/thing:5534444 and Tinkercad https://www.tinkercad.com/things/7OTrcZbG0LG
